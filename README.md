@@ -14,7 +14,7 @@ A modern, responsive weather application built with **Vue 3**, **Vite**, **Pinia
 
 - 🔍 **City Search** - Search weather by city name with auto-validation
 - 🌡️ **Current Weather** - Real-time temperature, humidity, wind speed, pressure, and visibility
-- 📅 **6-Day Forecast** - Extended forecast with min/max temperatures and conditions
+- 📅 **5-Day Forecast** - Extended forecast with min/max temperatures and conditions
 - 🔄 **Refresh Data** - Update weather information without page reload
 - 📱 **Responsive Design** - Works perfectly on desktop, tablet, and mobile
 - 🎨 **Modern UI** - Beautiful gradient cards with smooth hover effects
